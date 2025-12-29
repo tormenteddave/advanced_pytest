@@ -1,0 +1,5 @@
+.git
+.DS_Store
+/testenv
+__pycache__
+.pytest.cache
