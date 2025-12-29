@@ -3,3 +3,4 @@
 /testenv
 __pycache__
 .pytest.cache
+.python-version
